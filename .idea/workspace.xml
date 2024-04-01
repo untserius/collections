@@ -1,19 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c7e5a9ef-d967-4816-9a4e-dbfda49d3c94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/ArrayListExplain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/BookStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/ConvertToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/IterationTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Looptowhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/ObjectPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/RecursivePrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionIntoAnotherCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashSet/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashSet/InsertionOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedHashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListExplain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Comparingbykey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Comparingbyvalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/ComputeOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Ops2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map/Ops3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodReference/DoubleEachElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/DequeOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleClassCast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeSet/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeSet/CustomTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeSet/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeSet/MethodsSetA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeSet/NavigableDescendingSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeSet/SortUsingTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeSet/SortedSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeSet/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeSet/TreeSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VectorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,20 +74,73 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2dwqqiQtWaDgeurfqkbx8xUvRD4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arraylist.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BookStore.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionIntoAnotherCollection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparableTest.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ComparatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comparingbykey.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comparingbyvalue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparisonTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputeOps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertToArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomTreeSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DequeOps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoubleEachElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IterationTesting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashSetExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListExplain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Linkedlist.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Looptowhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodsSetA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NavigableDescendingSet.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Operations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ops2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ops3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleClassCast.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortUsingTreeSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeSetExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vector.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/jpa-buddy-2023.4.1-233.zip&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,5 +151,16 @@
       <updated>1710929681048</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ComparableTest.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
